@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Intro Slider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">WelCome To CodeDecode.in</string>
+    <string name="slide_1_desc">Web and Android app development tutorials for beginner and advanced learners.</string>
+
+    <string name="slide_2_title">Event Organizer</string>
+    <string name="slide_2_desc">Best Event Organizer…!</string>
+
+    <string name="slide_3_title">Weather Reports</string>
+    <string name="slide_3_desc">Get Accurate Weather Information…! </string>
+
+    <string name="slide_4_title">Technology Information</string>
+    <string name="slide_4_desc">Get Latest Technology Information…!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
